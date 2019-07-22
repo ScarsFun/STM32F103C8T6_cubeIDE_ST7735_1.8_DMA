@@ -14,6 +14,8 @@
 
  * Corrected DMA routines from original libraryes
 
+ [![](http://img.youtube.com/vi/wPrr1YjEcIU/0.jpg)](http://www.youtube.com/watch?v=wPrr1YjEcIU "DEMO")
+
 
 
 >>>>>>> readme updated
